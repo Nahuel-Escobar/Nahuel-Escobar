@@ -10,10 +10,6 @@
 
 ---
 
----
-
----
-
 ### 👨‍💻 About me:
 
 - 🔹 You can regularly contact me by: e.nahuelescobar@gmail.com
@@ -25,5 +21,8 @@
 - 🌎 Website: [Portfolio](https://nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/index.html)
 
 
+---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahuel-Escobar
+)](https://github.com/anuraghazra/github-readme-stats)
 
