@@ -23,16 +23,13 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahuel-Escobar&show_icons=true&theme=synthwave)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel-Escobar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahuel-Escobar&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel-Escobar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <div id="main" align="center">
     <img
-      src="https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-DtJ5uJZwLFRYqXshdC"
+      src="[https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-DtJ5uJZwLFRYqXshdC](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)"
       alt="About_img"
       width="300"
     />
