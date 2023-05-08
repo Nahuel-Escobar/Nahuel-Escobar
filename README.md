@@ -28,6 +28,7 @@
     alt="about_img"
     width="300"
   />
+  <h1 align="center" > My stats </h1>
 </div>
 
 
