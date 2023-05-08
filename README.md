@@ -32,12 +32,10 @@
 
 ---
 
-<div style="display: flex" style="justify-content: space-between">
   ![Anurag's GitHub
   stats](https://github-readme-stats.vercel.app/api?username=Nahuel-Escobar&show_icons=true&theme=synthwave)
   [![Top
   Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel-Escobar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
