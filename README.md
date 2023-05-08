@@ -12,10 +12,11 @@
 
 ### 👨‍💻 About me:
 
-- 🔹 You can regularly contact me by: e.nahuelescobar@gmail.com
+- 🔹 You can regularly contact me by: (E-Mail)[e.nahuelescobar@gmail.com]
 
-- 🔹 My Linkedin: linkedin.com/in/esteban-nahuel-escobar-704098253/
+- 🔹 My Linkedin: (Nahuel Escobar)[linkedin.com/in/esteban-nahuel-escobar-704098253/]
 
 - 🤸‍♂️ I`m currently learning React.js, Redux, Typescript, Jest and Next.js
 
-- 🌎 Website: nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/
+- 🌎 Website: (Portfolio)[nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/]
+
