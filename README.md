@@ -29,7 +29,7 @@
 
 <div id="main" align="center">
     <img
-      src="[https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-DtJ5uJZwLFRYqXshdC](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)"
+      src="https://giphy.com/embed/l41JU9pUyosHzWyuQ"
       alt="About_img"
       width="300"
     />
