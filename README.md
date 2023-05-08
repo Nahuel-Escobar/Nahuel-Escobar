@@ -7,3 +7,15 @@
   <h1 align="center">Hi, I'm Nahuel Escobar</h1>
   <h3>A passionate Front end developer from Argentina. I like to be constantly learning about this trade and improve every day in it</h3>
 </div>
+
+---
+
+### 👨‍💻 About me:
+
+- 🔹 You can regularly contact me by: e.nahuelescobar@gmail.com
+
+- 🔹 My Linkedin: linkedin.com/in/esteban-nahuel-escobar-704098253/
+
+- 🤸‍♂️ I`m currently learning React.js, Redux, Typescript, Jest and Next.js
+
+- 🌎 Website: nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/
