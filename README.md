@@ -4,21 +4,21 @@
     alt="presentacion_img"
     width="300"
   />
-  <h1 align="center">Hi, I'm Nahuel Escobar</h1>
-  <h3>A passionate Front end developer from Argentina. I like to be constantly learning about this trade and improve every day in it</h3>
+  <h1 align="center">Hola, soy Nahuel Escobar</h1>
+  <h3>Un Apasionado desarrollador .net de Argentina.</h3>
 </div>
 
 ---
 
-### 👨‍💻 About me:
+### 👨‍💻 Acerca de mi:
 
-- 🔹 You can regularly contact me by: e.nahuelescobar@gmail.com
+- 🔹 Puedes contactarme regularmente por mi correo: e.nahuelescobar@gmail.com
 
-- 🔹 My Linkedin: [Nahuel Escobar](https://www.linkedin.com/in/esteban-nahuel-escobar-704098253/)
+- 🔹 Mi Linkedin: [Esteban Nahuel Escobar](https://www.linkedin.com/in/esteban-nahuel-escobar/)
 
-- 🤸‍♂️ I`m currently learning React.js, Redux, Typescript, Jest and Next.js
+- 🤸‍♂️ Actualmente estoy aprendiendo sobre Angular, SQL Server, .NET Core, y Docker.
 
-- 🌎 Website: [Portfolio](https://nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/index.html)
+- 🌎 Mi sitio web con proyectos frontend: [Portfolio](https://nahuel-escobar.github.io/Porfolio-Nahuel-Escobar/index.html)
 
 
 ---
